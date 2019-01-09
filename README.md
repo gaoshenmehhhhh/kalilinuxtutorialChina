@@ -13,6 +13,6 @@
 <h5>天底下没有免费的晚餐,全套教程88元(包括初级(工具的介绍使用),中级(视频教程,各种bug各种坑的介绍),高级（真正的实战）),bug帮解决,让你成为真正的kali linuxer,真的的hacker。</h5>
 
 <h5>也提供语音一对一,teamviewer远程教学</h5>
-<img src="https://raw.githubusercontent.com/educationhacker/KaliLinux/master/pic/kalilinux1.png" />
-<img src="https://raw.githubusercontent.com/educationhacker/KaliLinux/master/pic/kalilinux2.png" />
-<img src="https://raw.githubusercontent.com/educationhacker/KaliLinux/master/pic/kalilinux3.png" />
+<img src="https://raw.githubusercontent.com/educationhacker/kalilinuxtutorialChina/master/pic/kalilinux1.png" />
+<img src="https://raw.githubusercontent.com/educationhacker/kalilinuxtutorialChina/master/pic/kalilinux2.png" />
+<img src="https://raw.githubusercontent.com/educationhacker/kalilinuxtutorialChina/master/pic/kalilinux3.png" />
